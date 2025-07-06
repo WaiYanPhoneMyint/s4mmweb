@@ -7,18 +7,6 @@
   A clean and modern landing page project designed and developed to showcase digital services for <strong>Store4mm</strong>. This project demonstrates front-end skills using HTML, CSS, and media assets to create a responsive and visually appealing webpage.
 </p>
 
-<p align="center">
-  <a href="https://github.com/WaiYanPhoneMyint/s4mmweb">
-    <img alt="Repo Stars" src="https://img.shields.io/github/stars/WaiYanPhoneMyint/s4mmweb?style=flat-square" />
-  </a>
-  <a href="https://github.com/WaiYanPhoneMyint/s4mmweb/blob/main/LICENSE">
-    <img alt="LICENSE" src="https://img.shields.io/github/license/WaiYanPhoneMyint/s4mmweb.svg?style=flat-square" />
-  </a>
-  <a href="https://github.com/WaiYanPhoneMyint/s4mmweb/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/WaiYanPhoneMyint/s4mmweb?color=orange&style=flat-square" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🚀 Key Features</h2>
